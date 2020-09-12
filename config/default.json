@@ -1,3 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://smarthbajaj28:Lagjagale@123@devconnector.ln06m.mongodb.net/users?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://smarthbajaj28:Lagjagale@123@devconnector.ln06m.mongodb.net/users?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoekn",
+  "githubClientId": "04eace0a8d4a3f3e85fd",
+  "githubSecret": "af450b06a93aca7a82af05cde634b4188d2b55f5"
 }
